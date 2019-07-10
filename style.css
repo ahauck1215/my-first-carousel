@@ -3,11 +3,16 @@ img {
 }
 
 
-
 .carousel-inner > .item > img {
   margin: 0 auto;
 }
+.carousel-inner{
+    background-color: Crimson;
+}
 
 h2 {
-    text-align: center
+    text-align: center;
+    color: Aqua;
 }
+Body
+{background-color: grey;}
